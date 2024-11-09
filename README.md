@@ -1,4 +1,4 @@
-### A simple python script to set the wallpaper to the NASA APOD when you launch hyprland
+### A simple python script to set the wallpaper to the [NASA APOD](https://apod.nasa.gov/apod/) when you launch hyprland
 ###### Hyprpaper edition
 
 How to use
